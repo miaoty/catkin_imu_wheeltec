@@ -1,0 +1,2 @@
+fdilink_ahrs
+-DCATKIN_DEVEL_PREFIX=/home/tymiao2/catkin_imu_wheeltec/devel -DCMAKE_INSTALL_PREFIX=/home/tymiao2/catkin_imu_wheeltec/install -G Unix Makefiles

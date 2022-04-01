@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tymiao2/catkin_imu_wheeltec/devel/setup.sh
